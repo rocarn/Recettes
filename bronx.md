@@ -10,3 +10,7 @@ Ingrédients de jeux :
 Etapes de la recette : 
  
 - Tous ensembles
+
+Variantes : 
+
+- RPG et Dragon's lair
