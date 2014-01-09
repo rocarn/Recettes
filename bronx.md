@@ -6,3 +6,7 @@ Ingrédients de jeux :
 - Dragon's lair
 - Tintin au tibet
 - Silent Service
+
+Etapes de la recette : 
+ 
+- Tous ensembles
