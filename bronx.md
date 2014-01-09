@@ -1,5 +1,7 @@
 # Recette de jeu pourris avec des schtroumpf
 
+Si vous voyez ce message alors vous êtes sur github !
+
 Ingrédients de jeux :
 
 - Anti-terror force
