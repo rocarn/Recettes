@@ -1,3 +1,7 @@
 # Recette de jeu pourris
 
-À écrire...
+Ingrédients de jeux :
+
+- Anti-terror force
+- Dragon's lair
+- Tintin au tibet
