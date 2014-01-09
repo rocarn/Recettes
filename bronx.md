@@ -1,4 +1,4 @@
-# Recette de jeu pourris
+# Recette de jeu pourris avec des schtroumpf
 
 Ingrédients de jeux :
 
